@@ -1,5 +1,9 @@
+![Imagen de Sailor Moon](https://viapais.com.ar/resizer/PhdGR6qhDIW6wKqI0mLXsEMrSOY=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/WPSTIKGDYVBMXOOJJTADRPFM4E.png)
+
 <!-- TÍTULO -->
 # Porfolio 2023
+
+![Imagen de Sailor Moon](https://viapais.com.ar/resizer/PhdGR6qhDIW6wKqI0mLXsEMrSOY=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/WPSTIKGDYVBMXOOJJTADRPFM4E.png)
 ## Subtítulo onda H2
 ### Subtítulo más pequeño
 
@@ -45,7 +49,7 @@ Estos son algunos comandos básicos de Git:
 
 <!-- Así añadimos imágenes --> 
 
-![Imagen de Sailor Moon](https://viapais.com.ar/resizer/PhdGR6qhDIW6wKqI0mLXsEMrSOY=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/WPSTIKGDYVBMXOOJJTADRPFM4E.png)
+
 
 <!-- Esto es una lista -->
 
